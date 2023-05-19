@@ -3,7 +3,7 @@
 
 # 💫 About Me:
 
-I'm a Front-end Web Developer building the Front-end of Websites and Web Applications that leads to the success of the overall product.
+<p style="text-align: center;" >I'm a Front-end Web Developer building the Front-end of Websites and Web Applications that leads to the success of the overall product.</p>
 
 ## 🌐 Socials:
 
