@@ -1,4 +1,4 @@
-[![Mohammad Reza's GitHub Banner](./image/banner.jpg)](https://alirezayoom.vercel.app/)
+[![Mohammad Reza's GitHub Banner](./image/banner.jpg)]
 <br><br>
 
 # 💫 About Me:
