@@ -1,4 +1,4 @@
-[![Mohammad Reza's GitHub Banner](./image/banner.jpg)]
+[Mohammad Reza's GitHub Banner](./image/banner.jpg)
 <br><br>
 
 # 💫 About Me:
