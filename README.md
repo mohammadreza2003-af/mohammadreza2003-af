@@ -1,6 +1,3 @@
-[Mohammad Reza's GitHub Banner](./image/banner.jpg)
-<br><br>
-
 # 💫 About Me:
 
 <p  style="text-align: center;width : 40%">I'm a Front-end Web Developer building the Front-end of Websites and Web Applications that leads to the success of the overall product.</p>
